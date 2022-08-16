@@ -50,8 +50,8 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1]([https://papl.cs.brown.edu/2020/Introduction.html](https://cs3110.github.io/textbook/chapters/intro)), Supplementary: [Persistence of Memory](https://existentialtype.wordpress.com/2011/04/09/persistence-of-memory/) | [PA0: Intro. to OCaml](pa/0.md) (28 Aug) |
-| Week 2 (29 Aug) | Natural numbers, induction, lists | [PAPL 6.1-6.5](https://papl.cs.brown.edu/2020/Conditionals_and_Booleans.html), [10](https://papl.cs.brown.edu/2020/processing-lists.html), Supplementary: Natural Numbers (on BB) | Q0 (3 Sep) |
+| Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro), Supplementary: [Persistence of Memory](https://existentialtype.wordpress.com/2011/04/09/persistence-of-memory/) | [PA0: Intro. to OCaml](pa/0.md) (28 Aug) |
+| Week 2 (29 Aug) | Natural numbers, induction, lists | [OCaml 2](https://cs3110.github.io/textbook/chapters/intro), [10](https://papl.cs.brown.edu/2020/processing-lists.html), Supplementary: Natural Numbers (on BB) | Q0 (3 Sep) |
 | Week 3 (5 Sep - Labor Day) | Structured and conditional data | [PAPL 11](https://papl.cs.brown.edu/2020/intro-struct-data.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](pa/1.md) (11 Sep) |
 | Week 4 (12 Sep) | Collections, recursive data | [PAPL 12](https://papl.cs.brown.edu/2020/Collections_of_Structured_Data.html), [13](https://papl.cs.brown.edu/2020/Recursive_Data.html) | Q1 (17 Sep) |
 | Week 5 (19 Sep) | Higher-order functions | [PAPL 15](https://papl.cs.brown.edu/2020/testing.html), [16](https://papl.cs.brown.edu/2020/func-as-data.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
