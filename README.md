@@ -1,1 +1,119 @@
-# cs3200f22
+Fall 2022 CS3200 Syllabus
+
+# CS3200 Organization of Programming Languages
+
+## Fall 2022
+
+There are thousands of programming languages, from A#.NET to ZPL and everything in between. Do you need to know all of them to be a good programmer/engineer/computer scientist? 
+
+The goal of this course is to convince you that the answer to this question is no. In fact, many programming languages — while superficially distinct at the level of syntax — are actually quite similar once you take a closer look. 
+
+This semester, we'll explore by boiling a number of programming languages down to a small set of more fundamental language features, including structured data, control, mutable state, (higher-order) functions, types, polymorphism, and objects. Once you understand how these features work in isolation, you'll start seeing them (or not!) in all your favorite programming languages. This, in turn, will make it easy to pick up new languages with minimal fuss. 
+
+To learn many of these features, you'll be implementing them yourselves within a series of increasingly complex interpreters for small programming languages. The meta-language for programming and discussion is OCaml. 
+
+## Prerequisites
+CS 2650 and 3000, but also: Some mathematical maturity (at the level of "I've seen and done a few proofs before") and (most importantly) a desire to learn!
+
+|                       |         Details      |
+|-----------------------|----------------------|
+| **Lecture**           | MWF 3:05-4:00pm in Porter 100 |
+| **Instructors**        | Chang Liu (liuc@ohio.edu) and Alexander Bagnall (ab667712@ohio.edu) |
+| **Office Hours**      | Liu: W 8-10am (Stocker 321c); Bagnell: MWF 2-3pm (Stocker 379) |
+
+## Textbook
+
+No required textbook. Readings listed below are used throughout the semester.
+
+[Book: OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell)
+
+
+## Course Structure
+
+We'll meet MWF from 3:05-4pm. Attendance in class is required.
+Homework consists of programming assignments and Blackboard quizzes. We'll have both a traditional in-class midterm and a final.
+
+### Grade Breakdown
+
+| Component               | Percentage |
+|-------------------------|-----|
+| Programming assignments | 40% |
+| Attendance and Quizzes  | 10% |
+| Midterm exam            | 20% |
+| Final exam              | 30% |
+
+Blackboard will be used to report grades and to post lecture notes and reading material. Up-to-date information on all other aspects of the course (assignment due dates, etc.) will be posted on this website.
+
+## Schedule
+
+The schedule is subject to revision.
+
+| Week                        | Topic                                 | Reading                        | Assignment |
+|-----------------------------|---------------------------------------|--------------------------------|------------|
+| Week 1 (23 Aug) | Intro. to PL, OCaml | [PAPL 1](https://papl.cs.brown.edu/2020/Introduction.html), [3](https://papl.cs.brown.edu/2020/getting-started.html), [4.1-4.3](https://papl.cs.brown.edu/2020/Naming_Values.html), [5.1-5.3](https://papl.cs.brown.edu/2020/From_Repeated_Expressions_to_Functions.html), Supplementary: [Persistence of Memory](https://existentialtype.wordpress.com/2011/04/09/persistence-of-memory/) | [PA0: Intro. to OCaml](pa/0.md) (28 Aug) |
+| Week 2 (30 Aug) | Natural numbers, induction, lists | [PAPL 6.1-6.5](https://papl.cs.brown.edu/2020/Conditionals_and_Booleans.html), [10](https://papl.cs.brown.edu/2020/processing-lists.html), Supplementary: Natural Numbers (on BB) | Q0 (3 Sep) |
+| Week 3 (6 Sep) | Structured and conditional data | [PAPL 11](https://papl.cs.brown.edu/2020/intro-struct-data.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](pa/1.md) (11 Sep) |
+| Week 4 (13 Sep) | Collections, recursive data | [PAPL 12](https://papl.cs.brown.edu/2020/Collections_of_Structured_Data.html), [13](https://papl.cs.brown.edu/2020/Recursive_Data.html) | Q1 (17 Sep) |
+| Week 5 (20 Sep) | Higher-order functions | [PAPL 15](https://papl.cs.brown.edu/2020/testing.html), [16](https://papl.cs.brown.edu/2020/func-as-data.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
+| Week 6 (27 Sep) | Balanced BSTs | [PAPL 18](https://papl.cs.brown.edu/2020/set-representations.html) | Q2 (29 Sep) |
+| Week 7 (4 Oct) | State, Equality | [PAPL 20](https://papl.cs.brown.edu/2020/Sharing_and_Equality.html), [22](https://papl.cs.brown.edu/2020/State__Change__and_More_Equality.html) | [PA3: BSTs](pa/3.md) (9 Oct) |
+| Week 8 (11 Oct) | Abstract syntax, parsing | [PAPL 24](https://papl.cs.brown.edu/2020/Processing_Programs__Parsing.html), Supplementary: TAPL 3 (on BB) | Midterm Exam (15 Oct) |
+| Week 9 (18 Oct) | Interpretation | [PAPL 25](https://papl.cs.brown.edu/2020/first-interp.html) | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
+| Week 10 (25 Oct) | Interpreting conditionals and functions | [PAPL 26](https://papl.cs.brown.edu/2020/growing-lang.html), [27](https://papl.cs.brown.edu/2020/Interpreting_Functions.html) | Q3 (29 Oct) |
+| Week 11 (1 Nov) | Types, typing judgments | [PAPL 28](https://papl.cs.brown.edu/2020/types.html), Supplementary: TAPL 8 | [PA5: Scheme1](pa/5.md) (6 Nov) |
+| Week 12 (8 Nov) | Types contd., type safety | [PAPL 29](https://papl.cs.brown.edu/2020/safety-soundness.html) | Q4 (12 Nov) |
+| Week 13 (15 Nov) | Parametric polymorphism, type inference | [PAPL 30](https://papl.cs.brown.edu/2020/para-poly.html), [31](https://papl.cs.brown.edu/2020/Type_Inference.html) | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
+| Week 14 (22 Nov) | TBD / Thanksgiving | TBD | No quiz |
+| Week 15 (29 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
+| Exam week (6 Dec) | **FINAL EXAM**: Wednesday 12/8/21 12:20pm in Stocker 103 | | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
+
+Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
+
+## Homework and Collaboration Policies
+
+### Acceptable Collaboration Matrix
+
+|            | Instructor/TA	| Noninstructor (e.g., Another Student) | 
+|------------|----------------|---------------------------------------|
+| ***You***  | All collaboration allowed | High-level discussion (of the problems, not your code!) allowed but only after you've started the assignment; must be documented in README as described below |
+
+Unless otherwise noted, homeworks are due Saturdays by 11:59 p.m. Late homework assignments will be penalized according to the following formula:
+
+* Up to 24 hours late: no deduction, for a max 2 late homeworks per student across the entire semester
+* Homeworks later than 24 hours, or from students who have already turned in 2 late homeworks, will receive 0 points.
+
+You may discuss the homework with other students in the class, but only after you've attempted the problems on your own first. If you do discuss the homework problems with others, write the names of the students you spoke with, along with a brief summary of what you discussed, in a README comment at the top of each submission. Example:
+
+```
+(* README Alex Bagnall, Assn #1 
+I worked with X and Y. We swapped tips regarding the use of pattern-matching in Rust. *)
+```
+
+However, **under no circumstances are you permitted to share or directly copy code or other written homework material**, except with course instructors. The code and proofs you turn in must be your own. Remember: homework is there to give **you** practice in the new ideas and techniques covered by the course; it does you no good if you don't engage!
+
+That said, if we find that you have cheated on an assignment in this course, you will immediately:
+
+* Be referred to the Office of Community Standards (which may take disciplinary action against you, possibly expulsion); and
+* Flunk the course (receive a final grade of F).
+
+Students in EECS courses such as this one must adhere to the Russ College of Engineering and Technology [Honor Code](https://www.ohio.edu/engineering/academics/academic-integrity.cfm##code), and to the OU [Student Code of Conduct](http://www.ohio.edu/communitystandards/academic/students.cfm). If you haven't read these policies, do so now.
+
+## Students with Disabilities
+
+If you suspect you may need an accommodation based on the impact of a disability, please contact me privately to discuss your specific needs. If you're not yet registered as a student with a disability, contact the Office of Student Accessibility Services first.
+
+## Student Outcomes vs. Course Learning Outcomes
+
+1. An ability to analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions. Students will be able to:
+* Design and implement structured data types to solve computational problems
+* Design and implement higher-order functions to solve computational problems
+* Use pattern-matching to analyze and compute on structured data
+* Use recursion to write functions that manipulate recursive collection types such as abstract syntax trees and lists
+* Use polymorphism to implement a generic collection type such as a symbol table
+* Analyze and reason equationally about a functional program in order to prove its correctness
+
+6. An ability to apply computer science theory and software development fundamentals to produce computing-based solutions. Students will be able to:
+* Apply understanding of grammars and syntax trees to implement a parser for an extended arithmetic expression language that conforms to a BNF specification
+* Apply understanding of inductively defined data types, pattern-matching, recursion, and programming language semantics to implement an interpreter for an extended arithmetic expression language
+* Apply understanding of type systems, type judgments, and inductively defined typing rules to implement a type checker for an extended arithmetic expression language
+* Apply understanding of programming language design and implementation to extend an existing implementation of a language (parser, type checker, interpreter) to support new language features such as higher-order functions, mutable references, or closures
