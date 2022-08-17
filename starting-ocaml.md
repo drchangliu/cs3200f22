@@ -1,11 +1,10 @@
 # Starting with OCaml
 
-For general instructions on installing OCaml and setting it up with
-VSCode, refer to
-[here](https://cs3110.github.io/textbook/chapters/preface/install.html). If
-VSCode isn't your cup of tea, don't worry; a high-quality OCaml
-plugins is likely available for your favorite editor as well (E.g.,
-merlin for emacs).
+Follow the instructions
+[here](https://cs3110.github.io/textbook/chapters/preface/install.html)
+to install OCaml on your system. If VSCode isn't your cup of tea,
+don't worry; a high-quality OCaml plugin is likely available for your
+favorite editor as well (E.g., merlin for emacs).
 
 ## Install QCheck and Alcotest
 
