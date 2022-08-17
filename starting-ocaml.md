@@ -4,7 +4,7 @@ Follow the instructions
 [here](https://cs3110.github.io/textbook/chapters/preface/install.html)
 to install OCaml on your system. If VSCode isn't your cup of tea,
 don't worry; a high-quality OCaml plugin is likely available for your
-favorite editor as well (E.g., merlin for emacs).
+favorite editor as well (e.g., merlin for emacs).
 
 ## Install QCheck and Alcotest
 
