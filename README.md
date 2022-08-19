@@ -50,19 +50,19 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro), Supplementary: [Persistence of Memory](https://existentialtype.wordpress.com/2011/04/09/persistence-of-memory/) | [PA0: Intro. to OCaml](pa/0.md) (End of Week 2, Friday Sept 2.) |
-| Week 2 (29 Aug) | Natural numbers, induction, lists | [OCaml 2](https://cs3110.github.io/textbook/chapters/intro), [10](https://papl.cs.brown.edu/2020/processing-lists.html), Supplementary: Natural Numbers (on BB) | Q0 (3 Sep) |
-| Week 3 (5 Sep - Labor Day) | Structured and conditional data | [PAPL 11](https://papl.cs.brown.edu/2020/intro-struct-data.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](pa/1.md) (11 Sep) |
-| Week 4 (12 Sep) | Collections, recursive data | [PAPL 12](https://papl.cs.brown.edu/2020/Collections_of_Structured_Data.html), [13](https://papl.cs.brown.edu/2020/Recursive_Data.html) | Q1 (17 Sep) |
-| Week 5 (19 Sep) | Higher-order functions | [PAPL 15](https://papl.cs.brown.edu/2020/testing.html), [16](https://papl.cs.brown.edu/2020/func-as-data.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
-| Week 6 (26 Sep) | Balanced BSTs | [PAPL 18](https://papl.cs.brown.edu/2020/set-representations.html) | Q2 (29 Sep) |
-| Week 7 (3 Oct) | State, Equality | [PAPL 20](https://papl.cs.brown.edu/2020/Sharing_and_Equality.html), [22](https://papl.cs.brown.edu/2020/State__Change__and_More_Equality.html) | [PA3: BSTs](pa/3.md) (9 Oct) |
-| Week 8 (10 Oct) | Abstract syntax, parsing | [PAPL 24](https://papl.cs.brown.edu/2020/Processing_Programs__Parsing.html), Supplementary: TAPL 3 (on BB) | Midterm Exam (15 Oct) |
-| Week 9 (17 Oct) | Interpretation | [PAPL 25](https://papl.cs.brown.edu/2020/first-interp.html) | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
-| Week 10 (24 Oct) | Interpreting conditionals and functions | [PAPL 26](https://papl.cs.brown.edu/2020/growing-lang.html), [27](https://papl.cs.brown.edu/2020/Interpreting_Functions.html) | Q3 (29 Oct) |
-| Week 11 (31 Oct Halloween) | Types, typing judgments | [PAPL 28](https://papl.cs.brown.edu/2020/types.html), Supplementary: TAPL 8 | [PA5: Scheme1](pa/5.md) (6 Nov) |
-| Week 12 (7 Nov) | Types contd., type safety | [PAPL 29](https://papl.cs.brown.edu/2020/safety-soundness.html) | Q4 (12 Nov) |
-| Week 13 (14 Nov) | Parametric polymorphism, type inference | [PAPL 30](https://papl.cs.brown.edu/2020/para-poly.html), [31](https://papl.cs.brown.edu/2020/Type_Inference.html) | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
+| Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) | [PA0: Intro. to OCaml](pa/0.md) (End of Week 2, Friday Sept 2.) |
+| Week 2 (29 Aug) | Functional programming basics | [OCaml 2](https://cs3110.github.io/textbook/chapters/basics/intro.html), Supplementary: [Programming in Standard ML 2.1, 2.2](http://www.cs.cmu.edu/~rwh/isml/book.pdf#chapter.2) | Q0 (3 Sep) |
+| Week 3 (5 Sep - Labor Day) | Data and Types | [OCaml 3](https://cs3110.github.io/textbook/chapters/data/intro.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](pa/1.md) (11 Sep) |
+| Week 4 (12 Sep) | Collections, recursive data | TBD, Supplementary: Natural Numbers (on BB) | Q1 (17 Sep) |
+| Week 5 (19 Sep) | Higher-order functions | TBD, Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
+| Week 6 (26 Sep) | Balanced BSTs | TBD | Q2 (29 Sep) |
+| Week 7 (3 Oct) | State, Equality | TBD | [PA3: BSTs](pa/3.md) (9 Oct) |
+| Week 8 (10 Oct) | Abstract syntax, parsing | TBD, Supplementary: TAPL 3 (on BB) | Midterm Exam (15 Oct) |
+| Week 9 (17 Oct) | Interpretation | TBD | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
+| Week 10 (24 Oct) | Interpreting conditionals and functions | TBD | Q3 (29 Oct) |
+| Week 11 (31 Oct Halloween) | Types, typing judgments | TBD, Supplementary: TAPL 8 | [PA5: Scheme1](pa/5.md) (6 Nov) |
+| Week 12 (7 Nov) | Types contd., type safety | TBD | Q4 (12 Nov) |
+| Week 13 (14 Nov) | Parametric polymorphism, type inference | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
 | Week 14 (21 Nov) | TBD / Thanksgiving | TBD | No quiz |
 | Week 15 (28 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
