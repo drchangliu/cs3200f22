@@ -98,10 +98,6 @@ That said, if we find that you have cheated on an assignment in this course, you
 
 Students in EECS courses such as this one must adhere to the Russ College of Engineering and Technology [Honor Code](https://www.ohio.edu/engineering/academics/academic-integrity.cfm##code), and to the OU [Student Code of Conduct](http://www.ohio.edu/communitystandards/academic/students.cfm). If you haven't read these policies, do so now.
 
-## Students with Disabilities
-
-If you suspect you may need an accommodation based on the impact of a disability, please contact me privately to discuss your specific needs. If you're not yet registered as a student with a disability, contact the Office of Student Accessibility Services first.
-
 ## Student Outcomes vs. Course Learning Outcomes
 
 1. An ability to analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions. Students will be able to:
@@ -117,3 +113,11 @@ If you suspect you may need an accommodation based on the impact of a disability
 * Apply understanding of inductively defined data types, pattern-matching, recursion, and programming language semantics to implement an interpreter for an extended arithmetic expression language
 * Apply understanding of type systems, type judgments, and inductively defined typing rules to implement a type checker for an extended arithmetic expression language
 * Apply understanding of programming language design and implementation to extend an existing implementation of a language (parser, type checker, interpreter) to support new language features such as higher-order functions, mutable references, or closures
+
+## COVID-19 Policies
+
+If you test positive or need to isolate or quarantine this semester, after you have taken care of yourself and followed all the steps in the OHIO COVID-19 Protocol, please notify me so that we can develop a plan for you to receive the necessary course content. COVID-related illness, quarantine, isolation, and remain-in-room directives are legitimate university absences, and I will work with you to manage your academic requirements and connect you to resources. If you feel that your class performance is being impacted by COVID-19, please contact Public Health Operations by email (PHO@ohio.edu). The University has information about resources available to help with quarantine and isolation here (https://www.ohio.edu/coronavirus/protocol).
+
+## Accommodation
+
+Any student who feels they may need an accommodation based on the impact of a disability should contact me privately to discuss your specific needs and provide written documentation from Student Accessibility Services. If you are not yet registered as a student with a disability, please contact Student Accessibility Services at 740-593-2620 or visit the office in 348 Baker University Center.
