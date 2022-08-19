@@ -65,7 +65,7 @@ The schedule is subject to revision.
 | Week 13 (14 Nov) | Parametric polymorphism, type inference | [PAPL 30](https://papl.cs.brown.edu/2020/para-poly.html), [31](https://papl.cs.brown.edu/2020/Type_Inference.html) | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
 | Week 14 (21 Nov) | TBD / Thanksgiving | TBD | No quiz |
 | Week 15 (28 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
-| Exam week (5 Dec) | **FINAL EXAM**: Wednesday 12/8/21 12:20pm in Stocker 103 | | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
+| Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
 
