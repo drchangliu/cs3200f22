@@ -53,16 +53,16 @@ The schedule is subject to revision.
 | Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) | [PA0: Intro. to OCaml](pa/0.md) (End of Week 2, Friday Sept 2.) |
 | Week 2 (29 Aug) | Functional programming basics | [OCaml 2](https://cs3110.github.io/textbook/chapters/basics/intro.html), Supplementary: [Programming in Standard ML 2.1, 2.2](http://www.cs.cmu.edu/~rwh/isml/book.pdf#chapter.2) | Q0 (3 Sep) |
 | Week 3 (5 Sep - Labor Day) | Data and Types | [OCaml 3](https://cs3110.github.io/textbook/chapters/data/intro.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](pa/1.md) (11 Sep) |
-| Week 4 (12 Sep) | Collections, recursive data | TBD, Supplementary: Natural Numbers (on BB) | Q1 (17 Sep) |
-| Week 5 (19 Sep) | Higher-order functions | TBD, Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
-| Week 6 (26 Sep) | Balanced BSTs | TBD | Q2 (29 Sep) |
-| Week 7 (3 Oct) | State, Equality | TBD | [PA3: BSTs](pa/3.md) (9 Oct) |
-| Week 8 (10 Oct) | Abstract syntax, parsing | TBD, Supplementary: TAPL 3 (on BB) | Midterm Exam (15 Oct) |
-| Week 9 (17 Oct) | Interpretation | TBD | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
-| Week 10 (24 Oct) | Interpreting conditionals and functions | TBD | Q3 (29 Oct) |
-| Week 11 (31 Oct Halloween) | Types, typing judgments | TBD, Supplementary: TAPL 8 | [PA5: Scheme1](pa/5.md) (6 Nov) |
-| Week 12 (7 Nov) | Types contd., type safety | TBD | Q4 (12 Nov) |
-| Week 13 (14 Nov) | Parametric polymorphism, type inference | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
+| Week 4 (12 Sep) | Natural numbers | [OCaml 3.12](https://cs3110.github.io/textbook/chapters/data/nats.html), Supplementary: Natural Numbers (on BB) | Q1 (17 Sep) |
+| Week 5 (19 Sep) | Higher-order programming | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
+| Week 6 (26 Sep) | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2 (29 Sep) |
+| Week 7 (3 Oct) | Program correctness | [OCaml 6](https://cs3110.github.io/textbook/chapters/correctness/intro.html) | [PA3: BSTs](pa/3.md) (9 Oct) |
+| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (15 Oct) |
+| Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
+| Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (29 Oct) |
+| Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (6 Nov) |
+| Week 12 (7 Nov) | Types and typechecking | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | Q4 (12 Nov) |
+| Week 13 (14 Nov) | TBD | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
 | Week 14 (21 Nov) | TBD / Thanksgiving | TBD | No quiz |
 | Week 15 (28 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
