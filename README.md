@@ -50,7 +50,7 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (22 Aug) | Intro. to PL, OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) |  |
+| Week 1 (22 Aug) | [Intro](http://simp.ly/p/RkZX2S), OCaml | [OCaml 1](https://cs3110.github.io/textbook/chapters/intro/intro.html) |  |
 | Week 2 (29 Aug) | Functional programming basics | [OCaml 2](https://cs3110.github.io/textbook/chapters/basics/intro.html), Supplementary: [Programming in Standard ML 2.1, 2.2](http://www.cs.cmu.edu/~rwh/isml/book.pdf#chapter.2) | [PA0: Intro. to OCaml](https://github.com/OUCompilers/3200-pa0-template) (End of Week 2, Friday Sept 2.) <br> Q0 (2 Sep) | 
 | Week 3 (5 Sep - Labor Day) | Data and Types | [OCaml 3](https://cs3110.github.io/textbook/chapters/data/intro.html), Supplementary: [Types as Sets](https://guide.elm-lang.org/appendix/types_as_sets.html) | [PA1: Lists](https://github.com/OUCompilers/cs3200-pa1-template) (11 Sep) |
 | Week 4 (12 Sep) | Natural numbers | [OCaml 3.12](https://cs3110.github.io/textbook/chapters/data/nats.html), Supplementary: Natural Numbers (on BB) | Q1 (17 Sep) |
