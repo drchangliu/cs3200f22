@@ -57,7 +57,7 @@ The schedule is subject to revision.
 | Week 5 (19 Sep) | Higher-order programming | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Binary trees](pa/2.md) (25 Sep) |
 | Week 6 (26 Sep) | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2 (29 Sep) |
 | Week 7 (3 Oct) | Program correctness | [OCaml 6](https://cs3110.github.io/textbook/chapters/correctness/intro.html) | [PA3: BSTs](pa/3.md) (9 Oct) |
-| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (15 Oct) |
+| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (14 Oct) |
 | Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | [PA4: Scheme0 Core](pa/4.md) (23 Oct) |
 | Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (29 Oct) |
 | Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (6 Nov) |
