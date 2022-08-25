@@ -19,7 +19,7 @@ CS 2650 and 3000, but also: Some mathematical maturity (at the level of "I've se
 |-----------------------|----------------------|
 | **Lecture**           | MWF 3:05-4:00pm in Porter 100 |
 | **Instructors**        | Chang Liu (liuc@ohio.edu) and Alexander Bagnall (ab667712@ohio.edu) |
-| **Office Hours**      | Liu: W 8-10am (Stocker 321c); Bagnall: MWF 12-1pm (Teams) |
+| **Office Hours**      | Liu: WF 4-5pm (BR202); Bagnall: MWF 12-1pm (Teams) |
 
 ## Textbook
 
