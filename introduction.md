@@ -77,7 +77,7 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 - pattern matching using regular expressions
 - perl - output formating
 
-## Why the focus of functional programming in this class
+## Why the focus of functional programming in this class?
 
 - more programmer-oriented than computer-oriented
 - closer to math (expressing computation as mathematical functions)
@@ -164,3 +164,17 @@ main :- write('Starting ...\n'),
   move(4,source,target,auxiliary),
   write('The End.\n').
 ```
+
+## OCaml examples
+
+7 kyu - Likes Vs Dislikes
+https://www.codewars.com/kata/62ad72443809a4006998218a/
+
+```
+let like_or_dislike (inputs: like list): like option =
+  match inputs with
+  | [] -> None
+  | Like :: Like :: l' -> like_or_dislike l'
+  | [Like] -> (Some Like)
+  | Like :: l' -> like_or_dislike l'
+ ```
