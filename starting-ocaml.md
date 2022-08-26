@@ -46,5 +46,5 @@ Hello World!
 from CS3200
 changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ 
 ```
-.
+
 (A quick online tool to test this code is: https://www.onlinegdb.com/.)
