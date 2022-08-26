@@ -6,6 +6,12 @@ to install OCaml on your system. If VSCode isn't your cup of tea,
 don't worry; a high-quality OCaml plugin is likely available for your
 favorite editor as well (e.g., merlin for emacs and vim).
 
+```
+sudo apt install opam
+opam install dune
+dune test
+```
+
 ## Install QCheck and Alcotest
 
 Our programming assignments will depend on the QCheck and Alcotest
