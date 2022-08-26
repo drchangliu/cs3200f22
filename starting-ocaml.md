@@ -26,3 +26,23 @@ opam install qcheck alcotest qcheck-alcotest
 
 Once our programming assignments get going, you may often find OCaml's
 [online documentation](https://v2.ocaml.org/api/) to be useful.
+
+## Hello World!
+
+```
+let x : int = 3200 in
+let _ = print_string("Hello World!\n") in
+let _ = print_string("from CS") in
+let _ = print_int(x) in
+  print_string("\n")
+```
+
+```
+changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ ocamlc test.ml
+changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ ls
+a.out  test  test.cmi  test.cmo  test.ml
+changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ ./a.out
+Hello World!
+from CS3200
+changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ 
+```
