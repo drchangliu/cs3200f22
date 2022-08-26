@@ -48,7 +48,7 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 - Fundamental programming paradigm (imperative versus functional versus logical). Consider the more recent [Probabilistic Programming Languages](https://en.wikipedia.org/wiki/Probabilistic_programming) (e.g. [Stan](https://mc-stan.org/)), where the fundamental type is not an integer or a byte, but a probabilistic distribution. Imagine what a Machine Learning programming language would be. Imagine what an AI programming language (or a human programming language) would be.
 - Cultural/historical? E.g. "rec" keyword in OCaml for recursive functions, whereas in C/C++/Java, any function can be a recursive function.
 
-![](https://i.imgur.com/LXDTiyp.png)
+![](https://i.imgur.com/FXwv3zz.png)
 
 ## Examples of fundamental programming language features
 
@@ -73,6 +73,7 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 ### How languages influence each other
 
 - list - first class in Lisp
+- lamda function - from functional languages to Python and other imperative languages
 - pattern matching using regular expressions
 - perl - output formating
 
@@ -80,12 +81,12 @@ https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-intro
 
 - more programmer-oriented than computer-oriented
 - closer to math (expressing computation as mathematical functions)
-- no mutable states
+- no mutable states, which are often the source of intractable complexity
 - not covered elsewhere in our curriculum
 
 ## Prolog Examples
 
-[Online Porlog](https://www.onlinegdb.com/online_prolog_compiler)
+Facts. Rules. Predicates.
 
 [The likes and friends example.](https://athena.ecs.csus.edu/~mei/logicp/prolog/programming-examples.html) 
 
@@ -101,7 +102,9 @@ https://www.codewars.com/kata/5949481f86420f59480000e7/train/prolog
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/prolog
 
 
-[Interactive Prolog](https://www.jdoodle.com/execute-prolog-online/)
+Tool: [Online Porlog](https://www.onlinegdb.com/online_prolog_compiler)
+
+Tool: [Interactive Prolog](https://www.jdoodle.com/execute-prolog-online/)
 ```
 likes(alice, bob).
 likes(jane, john).
@@ -144,7 +147,7 @@ yes
 
 [The Hanoi Towers problem.](https://www.tutorialspoint.com/prolog/prolog_towers_of_hanoi_problem.htm)
 
-[Prolog online](https://www.tutorialspoint.com/execute_prolog_online.php)
+Tool: [Prolog online](https://www.tutorialspoint.com/execute_prolog_online.php)
 ```
 :- initialization(main).
 
@@ -160,25 +163,4 @@ move(N,X,Y,Z) :-
 main :- write('Starting ...\n'),
   move(4,source,target,auxiliary),
   write('The End.\n').
-  ```
-  ```
-  :- initialization(main).
-
-likes(alice, bob).
-likes(jane, john).
-likes(bob, chris).
-likes(chris, bob).
-
-friends(X, Y) :- likes(X, Y), 
-    likes(Y, X),
-    write(X), write(' is a friend of '), write(Y).
-
-
-   
-main :- write('Starting ...\n'),
-  friends(chris, bob),
-  friends(bob, alice),
-  write('\n--The End.--\n').
-```  
-
-
+```
