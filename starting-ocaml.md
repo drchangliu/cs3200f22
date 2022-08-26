@@ -7,7 +7,7 @@ don't worry; a high-quality OCaml plugin is likely available for your
 favorite editor as well (e.g., merlin for emacs and vim).
 
 ```
-sudo apt install opam
+sudo apt install ocaml opam
 opam install dune
 dune test
 ```
