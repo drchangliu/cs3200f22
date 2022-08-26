@@ -102,7 +102,7 @@ https://www.codewars.com/kata/5949481f86420f59480000e7/train/prolog
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/prolog
 
 
-Tool: [Online Porlog](https://www.onlinegdb.com/online_prolog_compiler)
+Tool: [Online Prolog](https://www.onlinegdb.com/online_prolog_compiler)
 
 Tool: [Interactive Prolog](https://www.jdoodle.com/execute-prolog-online/)
 ```
