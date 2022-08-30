@@ -9,6 +9,7 @@ favorite editor as well (e.g., merlin for emacs and vim).
 ```
 sudo apt install ocaml opam
 opam install dune
+# Be sure to create an opam switch
 dune test
 ```
 
@@ -46,5 +47,18 @@ Hello World!
 from CS3200
 changliu@TABLET-B433GV92:/mnt/c/Users/msg4c/root/cs3200/ocaml$ 
 ```
+
+Here's an extended version of the HelloWorld program.
+
+```
+(* This Hello World program shows several styles of OCaml printing and string/int manipulation. *)
+
+let x : int = 3200 in
+let _ = print_string("Hello World!\n") in
+let _ = print_string("from CS") in
+let _ = print_int(x) in
+  print_string("\n");
+  print_string("from CS " ^ string_of_int x ^ "\n")
+```  
 
 (A quick online tool to test this code is: https://www.onlinegdb.com/.)
