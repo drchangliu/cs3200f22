@@ -25,7 +25,7 @@ CS 2650 and 3000, but also: Some mathematical maturity (at the level of "I've se
 
 No required textbook. Readings listed below are used throughout the semester.
 
-[Book: OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell)
+[Book: OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell) [PDF](https://cs3110.github.io/textbook/ocaml_programming.pdf)
 
 
 ## Course Structure
