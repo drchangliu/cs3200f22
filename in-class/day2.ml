@@ -13,7 +13,6 @@ let _ = print_int (add5 1);
 
 let l = [1; 2; 3]
 
-let print_bool b =
-print_endline (if b then "true" else "false")
+let print_bool b = print_endline (if b then "true" else "false")
 
 let () = print_bool ("hi" == "hi")
