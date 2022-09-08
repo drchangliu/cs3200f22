@@ -13,7 +13,8 @@ This semester, we'll explore by boiling a number of programming languages down t
 To learn many of these features, you'll be implementing them yourselves within a series of increasingly complex interpreters for small programming languages. The meta-language for programming and discussion is OCaml. 
 
 ## Prerequisites
-CS 2650 and 3000, but also: Some mathematical maturity (at the level of "I've seen and done a few proofs before") and (most importantly) a desire to learn!
+(CS 2650 or CS 2653) and (CS 3000 or MATH 3050) and C or better in CS 2401,
+but also: Some mathematical maturity (at the level of "I've seen and done a few proofs before") and (most importantly) a desire to learn!
 
 |                       |         Details      |
 |-----------------------|----------------------|
