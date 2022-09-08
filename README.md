@@ -63,7 +63,7 @@ The schedule is subject to revision.
 | Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (29 Oct) |
 | Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (6 Nov) |
 | Week 12 (7 Nov) | Types and typechecking | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | Q4 (12 Nov) |
-| Week 13 (14 Nov) | TBD | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
+| Week 13 (14 Nov) No class on Friday: EECS Retreat | TBD | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
 | Week 14 (21 Nov) | TBD / Thanksgiving | TBD | No quiz |
 | Week 15 (28 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
