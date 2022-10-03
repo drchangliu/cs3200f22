@@ -122,3 +122,8 @@ If you test positive or need to isolate or quarantine this semester, after you h
 ## Accommodation
 
 Any student who feels they may need an accommodation based on the impact of a disability should contact me privately to discuss your specific needs and provide written documentation from Student Accessibility Services. If you are not yet registered as a student with a disability, please contact Student Accessibility Services at 740-593-2620 or visit the office in 348 Baker University Center.
+
+
+## CodeWars kata
+
+* https://www.codewars.com/kata/563089b9b7be03472d00002b
