@@ -127,3 +127,4 @@ Any student who feels they may need an accommodation based on the impact of a di
 ## CodeWars kata
 
 * https://www.codewars.com/kata/563089b9b7be03472d00002b
+* Back and forth then reverse: https://www.codewars.com/kata/60cc93db4ab0ae0026761232
