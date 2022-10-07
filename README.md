@@ -20,7 +20,7 @@ but also: Some mathematical maturity (at the level of "I've seen and done a few 
 |-----------------------|----------------------|
 | **Lecture**           | MWF 3:05-4:00pm in Porter 100 |
 | **Instructors**        | Chang Liu (liuc@ohio.edu) and Alexander Bagnall (ab667712@ohio.edu) |
-| **Office Hours**      | Liu: WF 4-5pm (BR202); Bagnall: MWF 12-1pm (Teams) |
+| **Office Hours**      | Liu: MW 4-5pm (BR202); Bagnall: MWF 12-1pm (Teams) |
 
 ## Textbook
 
