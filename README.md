@@ -57,13 +57,13 @@ The schedule is subject to revision.
 | Week 4 (12 Sep) | Natural numbers | [OCaml 3.9](https://cs3110.github.io/textbook/chapters/data/algebraic_data_types.html), [3.11](https://cs3110.github.io/textbook/chapters/data/trees.html), [3.12](https://cs3110.github.io/textbook/chapters/data/nats.html), Supplementary: Natural Numbers (on BB) | Q1 (16 Sep) |
 | Week 5 (19 Sep) | Higher-order programming (map, filter, fold, pipeline) | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Natural Numbers](pa/2.md) (Extended to Fri 30 Sep) |
 | Week 6 (26 Sep) - No Class on 9/30. Fall Break. | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2 (14 Oct) |
-| Week 7 (3 Oct) | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/) (14 Oct) |
-| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (21 Oct) |
-| Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | [PA4: Scheme0 Core](pa/4.md) (28 Oct) |
-| Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (28 Oct) |
-| Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (6 Nov) |
-| Week 12 (7 Nov) | Types and typechecking | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | Q4 (12 Nov) |
-| Week 13 (14 Nov) No class on Friday: EECS Retreat | TBD | TBD | [PA6: Typed Scheme1](pa/6.md) (20 Nov) |
+| Week 7 (3 Oct) | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/) (21 Oct) |
+| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (28 Oct) |
+| Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | [PA4: Scheme0 Core](pa/4.md) (4 Nov) |
+| Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (4 Nov) |
+| Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (11 Nov) |
+| Week 12 (7 Nov) | Types and typechecking | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | Q4 (18 Nov) |
+| Week 13 (14 Nov) No class on Friday: EECS Retreat | TBD | TBD | [PA6: Typed Scheme1](pa/6.md) (25 Nov) |
 | Week 14 (21 Nov) | TBD / Thanksgiving | TBD | No quiz |
 | Week 15 (28 Nov) | TBD / Final review | TBD | No quiz -- study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
