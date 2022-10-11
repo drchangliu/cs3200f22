@@ -58,7 +58,7 @@ The schedule is subject to revision.
 | Week 5 (19 Sep) | Higher-order programming (map, filter, fold, pipeline) | [OCaml 4](https://cs3110.github.io/textbook/chapters/hop/intro.html), Supplementary: [A tutorial on the universality and expressiveness of fold](https://www.cs.nott.ac.uk/~pszgmh/fold.pdf) (sections 1-3.1) | [PA2: Natural Numbers](pa/2.md) (Extended to Fri 30 Sep) |
 | Week 6 (26 Sep) - No Class on 9/30. Fall Break. | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2 (14 Oct) |
 | Week 7 (3 Oct) | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/) (21 Oct) |
-| Week 8 (10 Oct) | Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (28 Oct) |
+| Week 8 (10 Oct) | Option vs. Exceptions; Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (28 Oct) |
 | Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | [PA4: Scheme0 Core](pa/4.md) (4 Nov) |
 | Week 10 (24 Oct) | Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (4 Nov) |
 | Week 11 (31 Oct Halloween) | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (11 Nov) |
@@ -124,7 +124,4 @@ If you test positive or need to isolate or quarantine this semester, after you h
 Any student who feels they may need an accommodation based on the impact of a disability should contact me privately to discuss your specific needs and provide written documentation from Student Accessibility Services. If you are not yet registered as a student with a disability, please contact Student Accessibility Services at 740-593-2620 or visit the office in 348 Baker University Center.
 
 
-## CodeWars kata
 
-* Remove Elements from a List (filter): https://www.codewars.com/kata/563089b9b7be03472d00002b
-* Back and forth then reverse (list efficiency): https://www.codewars.com/kata/60cc93db4ab0ae0026761232
