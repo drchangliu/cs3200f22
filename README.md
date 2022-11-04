@@ -32,7 +32,7 @@ No required textbook. Readings listed below are used throughout the semester.
 ## Course Structure
 
 We'll meet MWF from 3:05-4pm. Attendance in class is required.
-Homework consists of programming assignments and Blackboard quizzes. We'll have both a traditional in-class midterm and a final.
+Homework consists of programming assignments and Blackboard quizzes. We'll have both a traditional in-class midterm exam and a final exam.
 
 ### Grade Breakdown
 
@@ -43,7 +43,7 @@ Homework consists of programming assignments and Blackboard quizzes. We'll have 
 | Midterm exam            | 20% |
 | Final exam              | 30% |
 
-Blackboard will be used to report grades and to post lecture notes and reading material. Up-to-date information on all other aspects of the course (assignment due dates, etc.) will be posted on this website.
+Blackboard will be used to report grades and to post lecture notes and reading material. Up-to-date information on all other aspects of the course will be posted on this webpage.
 
 ## Schedule
 
@@ -59,7 +59,7 @@ The schedule is subject to revision.
 | Week 6 (26 Sep) - No Class on 9/30. Fall Break. | Modular programming | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | Q2 (14 Oct) |
 | Week 7 (3 Oct) | Modular programming  | [OCaml 5](https://cs3110.github.io/textbook/chapters/modules/intro.html) | [PA3: BSTs](https://blackboard.ohio.edu/) (21 Oct) |
 | Week 8 (10 Oct) | Option vs. Exceptions; Mutability and state | [OCaml 7](https://cs3110.github.io/textbook/chapters/mut/intro.html) | Midterm Exam (28 Oct) |
-| Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | PA4 (11 Nov) |
+| Week 9 (17 Oct) | Red-black trees | [OCaml 8.3](https://cs3110.github.io/textbook/chapters/ds/rb.html) | PA4: Memoization (11 Nov) |
 | Week 10 (24 Oct) | Memoization | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html)| Q3 (11 Nov) |
 | Week 11 (31 Oct Halloween) | Big Int, Promises | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (18 Nov) |
 | Week 12 (7 Nov) | Monad, Abstract syntax and parsing | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | Q4 (25 Nov) |
