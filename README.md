@@ -64,8 +64,8 @@ The schedule is subject to revision.
 | Week 11 (31 Oct Halloween) | Big Int, Promises | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md) (18 Nov) |
 | Week 12 (7 Nov) | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) | Q4 (25 Nov) |
 | Week 13 (14 Nov) No class on Friday: EECS Retreat | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA6: Typed Scheme1](pa/6.md) (25 Nov) |
-| Week 14 (21 Nov)/ Thanksgiving | Types and typechecking  | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | No quiz |
-| Week 15 (28 Nov) | Final review | Final review | No quiz -- study for finals! |
+| Week 14 (21 Nov)/ Thanksgiving | Types and typechecking  | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | |
+| Week 15 (28 Nov) | Final review | Final review | Study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| | [PA7 (optional): Scheme2](pa/7.md) (10 Dec) |
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
