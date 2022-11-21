@@ -64,7 +64,7 @@ The schedule is subject to revision.
 | Week 11 (31 Oct Halloween) | Big Integer (Num), Promises |  OCaml 8.6 Promises | PA4:Scheme0 Parser (30 Nov) |
 | Week 12 (7 Nov) | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) |  |
 | Week 13 (14 Nov) No class on Friday: EECS Retreat | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md), [PA6: Typed Scheme1](pa/6.md) (Bonus) (7 Dec) |
-| Week 14 (21 Nov)/ Thanksgiving | Types and typechecking  | [OCaml 9.5](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | |
+| Week 14 (21 Nov)/ Thanksgiving | Desugaring, small step vs. big step semantics.  | [OCaml 9.3](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | |
 | Week 15 (28 Nov) | Final review | Final review | Study for finals! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| |  |
 
