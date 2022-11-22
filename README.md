@@ -65,7 +65,7 @@ The schedule is subject to revision.
 | Week 12 (7 Nov) | Monad, Abstract syntax and parsing | [OCaml 9 (up to 9.2)](https://cs3110.github.io/textbook/chapters/interp/intro.html) |  |
 | Week 13 (14 Nov) No class on Friday: EECS Retreat | Interpreters | [OCaml 9.3, 9.4](https://cs3110.github.io/textbook/chapters/interp/substitution.html) | [PA5: Scheme1](pa/5.md), [PA6: Typed Scheme1](pa/6.md) (Bonus) (7 Dec) |
 | Week 14 (21 Nov)/ Thanksgiving | Desugaring, small step vs. big step semantics.  | [OCaml 9.3](https://cs3110.github.io/textbook/chapters/interp/typecheck.html) | |
-| Week 15 (28 Nov) | Final review | Final review | Study for finals! |
+| Week 15 (28 Nov) | Final review | Final review | Friday is Final Part 1! |
 | Exam week (5 Dec) | **[FINAL EXAM](https://www.ohio.edu/registrar/final-exam-schedule)**: Wednesday, December 7, at 12:20 p.m.| |  |
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Fridays of weeks with no due programming assignments (PAs).
