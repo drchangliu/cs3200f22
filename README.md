@@ -28,6 +28,10 @@ No required textbook. Readings listed below are used throughout the semester.
 
 [Book: OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) (from Cornell) ([PDF](https://cs3110.github.io/textbook/ocaml_programming.pdf))
 
+Additional readings:
+
+"Real World OCaml - Functional Programming for the Masses", https://dev.realworldocaml.org/index.html
+
 
 ## Course Structure
 
